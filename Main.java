@@ -15,6 +15,7 @@ public class Main {
         int theRandomNumber = random.nextInt(100) + 1;
        // System.out.println(theRandomNumber);
         // this has been forked by Nathan!!!
+        // this a change of a different branch !!
         Scanner scan = new Scanner(System.in);
         boolean won = false;
         int numOfGuesses = 1;
